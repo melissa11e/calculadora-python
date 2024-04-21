@@ -1,2 +1,2 @@
 # calculadora-python
-Uma calculadora um pouco mais completa em Python.
+Uma calculadora normal e com calculos de porcentagem.
